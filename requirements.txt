@@ -1,0 +1,5 @@
+﻿fastapi[standard]
+scikit-learn
+groq
+pytest
+httpx
